@@ -24,7 +24,7 @@ export const schema = {
           },
           "email": {
             "type": "string",
-            "format":"email",
+            "format": "email",
             "faker": "internet.email"
           }
         },
