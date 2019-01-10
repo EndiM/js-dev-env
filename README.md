@@ -1,5 +1,7 @@
 # javascript-development-environment
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/EndiM/js-dev-env.svg)](https://greenkeeper.io/)
+
 ## Features
 
 - Koa 2
